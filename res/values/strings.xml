@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Peak</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="create_account">Create account</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="wrong">Wrong username or password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="logo_desc">Peak logo</string>
+    <string name="profile_pic_desc">Add new profile pic</string>
+    <string name="comments">Comments</string>
+    <string name="name">Name</string>
+    <string name="likes">Likes</string>
+    <string name="menu_compose">Compose</string>
+    <string name="post">Post</string>
+    <string name="compose_hint">Type your post here</string>
+    <string name="sign_out">Sign out</string>
+    <string name="grade_hint">Grade</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="post_time">Post time</string>
+    <string name="arrow_desc">Arrow</string>
+    <string name="create_wrong_password">Passwords must match</string>
+    <string name="request_help">Request help</string>
+    <string name="provide_help">Provide help</string>
+    <string name="share_tip">Share a tip</string>
+    <string name="share_resource">Share a resource</string>
+    <string name="remind_everyone">Remind everyone</string>
+    <string name="points">Points</string>
+    <string name="share">Share</string>
+    <string name="refresh">Refresh</string>
+    <string name="expertise_level">Click for level of expertise</string>
+    <string name="level">Level</string>
+    <string name="question">Question</string>
+    <string name="ans_one">Answer 1</string>
+    <string name="ans_2">Answer 2</string>
+    <string name="ans_3">Answer 3</string>
+    <string name="ans_4">Answer 4</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="title_array">
+        <item>Feed</item>
+        <item>Me</item>
+        <item>Game</item>
+    </string-array>
+
+</resources>

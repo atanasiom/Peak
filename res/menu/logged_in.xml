@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/compose"
+        android:checkable="false"
+        android:checked="false"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_compose"
+        android:orderInCategory="200"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/menu_compose"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/sign_out"
+        android:orderInCategory="200"
+        android:title="@string/sign_out">
+    </item>
+    <item android:id="@+id/refresh" android:orderInCategory="100" android:showAsAction="ifRoom|withText" android:title="@string/refresh"></item>
+
+</menu>
